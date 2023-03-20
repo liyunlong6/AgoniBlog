@@ -1,13 +1,14 @@
+<template>
+    <div id="app">
+        <RouterView></RouterView>
+    </div>
+</template>
+
 <script setup>
 
 </script>
 
-<template>
-<div>
-  
-</div>
-</template>
+<style lang="less" scoped>
 
-<style scoped>
 
 </style>
